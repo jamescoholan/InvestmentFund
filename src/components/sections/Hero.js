@@ -67,7 +67,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                An investment philosophy you can buy into
+                An investment Philosophy You Can Buy Into
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -75,7 +75,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://cruip.com/"
+                    href="https://jamescoholan.medium.com/campanile-holdings-investor-letter-971bda5d2a23"
                   >
                     Operating Letter
                   </Button>
@@ -83,7 +83,7 @@ const Hero = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/cruip/open-react-template/"
+                    href="https://medium.com/me/stories/public"
                   >
                     Articles
                   </Button>
@@ -104,7 +104,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/screely-1618516498766.png")}
+                src={require("./../../assets/images/screely-1618516498766 2 (0-00-00-00).png")}
                 alt="Hero"
                 width={896}
                 height={504}

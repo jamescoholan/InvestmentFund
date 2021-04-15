@@ -51,7 +51,7 @@ const FeaturesSplit = ({
   const sectionHeader = {
     title: "Concentrated Execution",
     paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+      "Risk mitigated by deep research and understanding of market verticals.",
   };
 
   return (
@@ -65,16 +65,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                </div>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Deep Research</h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
+                <p className="m-0">Investing in a synthesised view point.</p>
               </div>
               <div
                 className={classNames(
@@ -84,7 +77,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-01.png")}
+                  src={require("./../../assets/images/preview-80709-rmwCGc1OAR-high_0015.jpeg")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -97,15 +90,13 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                </div>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Deliberate Holdings</h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Investing in companies and asset classes with high growth
+                  potential over the long run. Excellent management, market
+                  growth, Differentiated product, the pace of innovation are
+                  critical identifiers of investment.
                 </p>
               </div>
               <div
@@ -116,7 +107,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-02.png")}
+                  src={require("./../../assets/images/preview_image.jpeg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -129,15 +120,10 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                </div>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Long Term Execution</h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Only invest in assets that are to be ideally held forever.
                 </p>
               </div>
               <div
@@ -148,7 +134,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/Financial_chart.75519268.fill-800x373.jpegquality-50.jpg")}
                   alt="Features split 03"
                   width={528}
                   height={396}

@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Investing in Accelerating Trend-lines",
+    title: "Deploying Capital Towards Accelerating Trend-lines",
     paragraph: "High Growth, Technology Focused Asset Classes",
   };
 
