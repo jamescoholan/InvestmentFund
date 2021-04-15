@@ -77,7 +77,7 @@ const Hero = ({
                     wideMobile
                     href="https://cruip.com/"
                   >
-                    Get started
+                    Operating Letter
                   </Button>
                   <Button
                     tag="a"
@@ -85,7 +85,7 @@ const Hero = ({
                     wideMobile
                     href="https://github.com/cruip/open-react-template/"
                   >
-                    View on Github
+                    Articles
                   </Button>
                 </ButtonGroup>
               </div>
