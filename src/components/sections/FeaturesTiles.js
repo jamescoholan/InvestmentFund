@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Deploying Capital Towards Accelerating Trend-lines",
+    title: "Deploying Capital Along Accelerating Trend-lines",
     paragraph: "High Growth, Technology Focused Asset Classes",
   };
 
@@ -67,11 +67,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Crypto</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
@@ -93,11 +89,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">AI</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
@@ -119,11 +111,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Sustainable Energy</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
@@ -142,11 +130,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">FinTech</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
@@ -167,12 +151,8 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Software</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <h4 className="mt-0 mb-8">Enterprise & Consumer Software</h4>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
@@ -194,11 +174,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">AR/VR</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <p className="m-0 text-sm"></p>
                 </div>
               </div>
             </div>
