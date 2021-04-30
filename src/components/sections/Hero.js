@@ -79,14 +79,14 @@ const Hero = ({
                   >
                     Operating Letter
                   </Button>
-                  <Button
+                  {/* <Button
                     tag="a"
                     color="dark"
                     wideMobile
                     href="https://medium.com/me/stories/public"
                   >
                     Articles
-                  </Button>
+                  </Button> */}
                 </ButtonGroup>
               </div>
             </div>
